@@ -18,11 +18,11 @@ Train dataset: select 87 images having good quailty from 24 streets
 
 Val dataset: select 18 images having good quailty from 5 streets 
 
->  their street id are 
->
-> 16853, 16878, 16879, 16948, 16949
+>  16853, 16878, 16879, 16948, 16949
 
 Test dataset: plan to select images from 8 streets
+
+> 16883, 14052, 16849, 16875, 14051, 16885, 14072, 16881
 
 
 
