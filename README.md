@@ -10,9 +10,9 @@ Please read the [VIA Tool Instruction.pdf](https://github.com/luoyaxiong/buildin
 
 Dataset have 51 streets (idSegment)
 
-Train dataset: select 88 images having good quailty from 25 streets
+Train dataset: select 87 images having good quailty from 24 streets
 
->  their street id are 14053,14054,14055,14056,14057,14058,14064,14065,14066,14067,14068,14069,14070,16835,16836,16837,16839,16850,16852,16854,16855,16882,16884,16888,16948
+>  their street id are 14053,14054,14055,14056,14057,14058,14064,14065,14066,14067,14068,14069,14070,16835,16836,16837,16839,16850,16852,16854,16855,16882,16884,16888
 
 Val dataset: select 18 images having good quailty from 5 streets 
 
