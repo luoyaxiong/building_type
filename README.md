@@ -33,7 +33,7 @@ Dataset has 51 streets (idSegment)
 
 > 16883, 14052, 16849, 16875, 14051, 16885, 14072, 16881
 
-`new_train` :  select  80 new  images from the remaining 13 streets (Expand the train dataset)
+`new_train` :  select  80 new  images from the remaining 13 streets (Expand the train dataset) (need do annotation) 
 
 `val_predict_4category`: prediction result of mask rcnn model with 4 categoties (opening, masonry, m6 ,rcw)
 
