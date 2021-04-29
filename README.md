@@ -2,7 +2,7 @@
 
 
 
-## Load annotation of opening and build
+## Load annotation of opening and building
 
 1. Open via/via.html
 2. Click Project => Load => train/train_detected.json
