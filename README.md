@@ -15,27 +15,31 @@ For more details, please read the [VIA Tool Instruction.pdf](https://github.com/
 
 
 
-## Dataset
+## Folders
 
 Dataset have 51 streets (idSegment)
 
-`train dataset`: select 87 images having good quailty from 24 streets
+`train`: select 87 images having good quailty from 24 streets
 
 >  their street id are
 >
 >  14053,14054,14055,14056,14057,14058,14064,14065,14066,14067,14068,14069,14070,16835,16836,16837,16839,16850,16852,16854,16855,16882,16884,16888
 
-`val dataset`: select 18 images having good quailty from 5 streets 
+`val `: select 18 images having good quailty from 5 streets 
 
 >  16853, 16878, 16879, 16948, 16949
 
-`Test dataset`: plan to select images from 8 streets
+`test`: plan to select images from 8 street (not done yet)
 
 > 16883, 14052, 16849, 16875, 14051, 16885, 14072, 16881
 
+`new_train` :  select  80 new  images from the remaining 13 streets (Expand the train dataset)
+
+`val_predict_4category`: prediction result of mask rcnn model with 4 categoties (opening, masonry, m6 ,rcw)
+
+`val_predict_2category`: prediction result of mask rcnn model with 2 categoties (opening, building)
+
+`via`:  contain the annotail tool applicaiton 
 
 
-## Expand the train dataset
-
-`new_train dataset` :  select  80 new  images from the remaining 13 streets
 
