@@ -17,7 +17,7 @@ For more details, please read the [VIA Tool Instruction.pdf](https://github.com/
 
 ## Folders
 
-Dataset have 51 streets (idSegment)
+Dataset has 51 streets (idSegment)
 
 `train`: select 87 images having good quailty from 24 streets
 
@@ -39,7 +39,7 @@ Dataset have 51 streets (idSegment)
 
 `val_predict_2category`: prediction result of mask rcnn model with 2 categoties (opening, building)
 
-`via`:  contain the annotail tool applicaiton 
+`via`:   the annotation tool  via applicaiton 
 
 
 
