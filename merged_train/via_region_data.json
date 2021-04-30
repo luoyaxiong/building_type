@@ -997,18 +997,6 @@
                 "region_attributes": {
                     "class_name": "masonry"
                 }
-            },
-            {
-                "shape_attributes": {
-                    "name": "rect",
-                    "x": 1093,
-                    "y": 919,
-                    "width": 88,
-                    "height": 55
-                },
-                "region_attributes": {
-                    "class_name": "masonry"
-                }
             }
         ],
         "file_attributes": {}
