@@ -44,3 +44,8 @@ Dataset has 51 streets (idSegment)
 `train85`: move 2 images( rcw building type) ''16837_82101_19_4.jpg'', "16852_82116_15_1.jpg" to `val dataset
 
 `val20`: reveive 2 images form `train`
+
+`mereged_train`: merge `train` and `new_train(except last 9 iamges)`
+
+`mereged_val`: merge `val` and `last 9 iamges from new_train`
+
