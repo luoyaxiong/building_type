@@ -41,5 +41,7 @@ Dataset has 51 streets (idSegment)
 
 `via`:   the annotation tool  via applicaiton 
 
+`train85`: move 2 images( rcw building type) ''16837_82101_19_4.jpg'', "16852_82116_15_1.jpg" to `val dataset
 
+`val20`: reveive 2 images form `train`
 
