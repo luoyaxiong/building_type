@@ -1,8 +1,6 @@
-##Model1
+#Model1
 
 Datasets: 51 Segments
-
-![image-20210511191123053](/Users/luoyaxiong/Library/Application Support/typora-user-images/image-20210511191123053.png)
 
 These segments are in the same street section but in two direction:
 
