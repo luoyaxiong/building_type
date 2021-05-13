@@ -15,7 +15,7 @@ For more details, please read the [VIA Tool Instruction.pdf](https://github.com/
 
 
 
-## Modelw
+## Model
 
 `model1` : detect opening and building by mask-rcnn
 
