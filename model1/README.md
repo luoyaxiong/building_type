@@ -34,7 +34,7 @@ These segments are in the same street section but in two direction:
 
 > Set1 (Annalisa annotate builidng type)(80 images, 7 segments): 16858,16872,16873,16876,16877,16880,16889
 >
-> Set2 (Alireza  annotate building type)(14 segments): (14051,14072),(14052,14071),16838,16849,16851,16856,16857,16875,16881,16883,16885,16890
+> [Set2](https://drive.google.com/drive/folders/1dZ6sxp6IA2ZH5GDbsYDeWJ1a0bm8WnBO?usp=sharing) (Alireza  annotate building type)(14 segments): (14051,14072),(14052,14071),16838,16849,16851,16856,16857,16875,16881,16883,16885,16890
 
 
 
