@@ -4,7 +4,7 @@
 
  167 from Basel (model1_train 87 imgs + 80  imags from 4 new segments),
 
- 112 from Zurich (25 masonry, 29 m6, 52 rcw )
+ 106 from Zurich (25 masonry, 29 m6, 52 rcw )
 
 > Basel segment ids are
 >
