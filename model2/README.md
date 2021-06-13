@@ -1,10 +1,10 @@
 # Model 2
 
-`train`: 279 images,
+`train`: 273 images,
 
  167 from Basel (model1_train 87 imgs + 80  imags from 4 new segments),
 
- 112 from Zurich (31 masonry, 29 m6, 52 rcw )
+ 112 from Zurich (25 masonry, 29 m6, 52 rcw )
 
 > Basel segment ids are
 >
